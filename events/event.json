@@ -1,0 +1,9 @@
+[
+  {
+    "Source": "supplier.service",
+    "Detail": "{ \"id\": \"1\", \"stockQuantity\": \"123\", \"price\": \"45\" }",
+    "DetailType": "InventoryUpdate",
+    "EventBusName": "default"
+
+  }
+]
